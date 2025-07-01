@@ -35,7 +35,6 @@ Todo lo encontrado se guarda automáticamente en un archivo con el nombre del do
 ```bash
 git clone https://github.com/Sadino07/datos_hardcodeados.git
 cd datos_hardcodeados
-python3 datos_hardcodeados.py -u http://urldeejemplo.com
 ```
 
 ### 2. Crea y activa el entorno virtual, e instala fake-useragent (opcional pero recomendado)
