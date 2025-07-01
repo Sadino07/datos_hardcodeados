@@ -1,4 +1,4 @@
-# # Datos Hardcodeados Tool 
+# Datos Hardcodeados 
 
 Este es un **script personalizado de reconocimiento web** hecho en Python usando **Scrapy**, diseñado para ayudar en labores de inteligencia durante pruebas de seguridad, CTFs o laboratorios como Hack The Box.
 
@@ -44,11 +44,10 @@ python3 -m venv recon_env
 source recon_env/bin/activate
 ```
 
-### 3. Instala scrapy y fake-useragent
+### 3. Instala dependencias
 
 ```bash
-pip install scrapy
-pip install fake-useragent
+pip install -r requirements.txt
 ```
 
 ### 4. Ejecuta la herramienta y visualiza los resultados
