@@ -1,4 +1,4 @@
-# # Datos Hardcodeados Tool 🕵️
+# # Datos Hardcodeados Tool 
 
 Este es un **script personalizado de reconocimiento web** hecho en Python usando **Scrapy**, diseñado para ayudar en labores de inteligencia durante pruebas de seguridad, CTFs o laboratorios como Hack The Box.
 
