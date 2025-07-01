@@ -1,20 +1,4 @@
-# 
-# # 1. Crear entorno virtual
-# python3 -m venv recon_env
 
-# 2. Activarlo
-# source recon_env/bin/activate
-
-# 3. Instalar Scrapy
-# pip install scrapy
-
-# 4. Opcional: instalar fake-useragent
-# pip install fake-useragent
-
-# 5. Ejecutar el script
-# python3 datos_hardcodeados -u http://urldeejemplo.com
- 
-# #
 
 import scrapy
 from urllib.parse import urljoin, urlparse
